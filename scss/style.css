@@ -478,10 +478,10 @@ h1, h2, h3, h4, h5,
   padding: 10px 20px;
   display: block;
   position: relative;
-  color: #ffffff;
+  color: #333333;
 }
 .site-mobile-menu .site-nav-wrap a:hover {
-  color: #090457;
+  color: #000000;
 }
 .site-mobile-menu .site-nav-wrap li {
   position: relative;
@@ -1703,7 +1703,7 @@ h1, h2, h3, h4, h5,
   text-align: center;
   border-width: 1px !important;
   vertical-align: middle;
-  color: #ffffff;
+  color: #000000;
   font-size: 18px;
   font-weight: normal;
 }
@@ -1711,7 +1711,7 @@ h1, h2, h3, h4, h5,
   padding: 20px;
   text-align: center;
   vertical-align: middle;
-  color: #ffffff;
+  color: #000000;
 }
 .site-blocks-table tbody tr:first-child td {
   border-top: 1px solid #090457 !important;
